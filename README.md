@@ -6,6 +6,8 @@ git clone https://github.com/thegsi/react-chess.git
 ```
 cd to react-chess root directory
 ```
+npm i
+
 npm run dev:start
 ```
 
